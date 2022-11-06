@@ -1,0 +1,32 @@
+.header {
+    background-color: #1363DF;
+    height: 70px;
+} 
+
+.title {
+    text-align: center;
+    background-color: cornflowerblue;
+}
+
+.title h1 {
+    margin: 0;
+    padding: 20px 0 20px;
+    text-align: center;
+}
+
+.about {
+    margin: 50px 0px 50px;
+}
+
+.footer {
+    background-color: #47B5FF ;
+    margin-top: 20px;
+    padding: 20px;
+}
+
+.footer p{
+    text-align: center;
+    padding-bottom: 10px;
+    margin: 0;
+    color: white;
+}
